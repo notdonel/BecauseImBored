@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BecauseImBored
+- 👋 Hi, I’m Don'EL,a 20 year old student currently studying software development.
 - 👀 I’m interested in learning and coding.
-- 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning CSS and Javascript
+- 💞️ I’m looking to collaborate on fututre projects but since I'm still fairly new at this please teach me. Cristism is encouraged.
 - 📫 How to reach me instagram @notdon.el
 
 <!---
